@@ -4,7 +4,7 @@ Usage:
         python most_active_cookie.py [filepath] -d [date in YYYY-mm-dd format]
     
     For help, use:
-        python most_active_cookie.py
+        python most_active_cookie.py -h
 
 Additional comments:
     The filepath must be specified relative to the current directory
