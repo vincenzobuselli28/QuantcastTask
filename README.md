@@ -7,7 +7,9 @@ Usage:
         python most_active_cookie.py -h
 
 Additional comments:
+
     The filepath must be specified relative to the current directory
 
 Testing:
+
     The unitTests library can be used to create and run tests, the testUtils are useful for automating tests
